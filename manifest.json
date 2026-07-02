@@ -1,0 +1,21 @@
+{
+  "name": "ABBQ Waste Tracker",
+  "short_name": "Waste",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F2B400",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
